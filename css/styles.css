@@ -1,0 +1,23 @@
+
+
+body{background-image: url("https://image.freepik.com/free-vector/pizza-drawings-pattern_23-2147498559.jpg");
+  background-size: cover;
+}
+.container-fluid {
+    margin: 0 auto;
+    width: 960px;
+  }
+
+  .whatwedo img{
+      width: 200px ;
+      height: 200px;
+      border-radius: 50%;
+  }
+  h1,h3{
+    text-align: center;
+    
+  }
+  .pacifico{
+    font-family: 'Pacifico', cursive;
+
+  }
