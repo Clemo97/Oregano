@@ -1,30 +1,30 @@
-body{
+body {
   background-image: url("https://image.freepik.com/free-vector/pizza-drawings-pattern_23-2147498559.jpg");
   background-size: cover;
 }
+
 .container-fluid {
   margin: 0 auto;
   width: 960px;
 }
 
-.whatwedo img{
-  width: 200px ;
+.whatwedo img {
+  width: 200px;
   height: 200px;
   border-radius: 50%;
 }
 
-h1,h3{
+h1, h3 {
   text-align: center;
 }
 
-.pacifico{
+.pacifico {
   font-family: 'Pacifico', cursive;
 }
 
 .col-md-4.col-sm-12 {
   text-align: center;
 }
-
 
 @media only screen and (max-width: 600px) {
   .container-fluid {
@@ -45,7 +45,7 @@ h1,h3{
 }
 
 @media only screen and (min-width: 992px) {
-  .container-fluid{
+  .container-fluid {
     width: 70%;
   }
 }
