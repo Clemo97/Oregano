@@ -22,7 +22,6 @@ h1, h3 {
   font-family: 'Pacifico', cursive;
 }
 
-
 .col-md-4.col-sm-12 {
   text-align: center;
 }
@@ -31,8 +30,9 @@ h1, h3 {
   .container-fluid {
     width: 100%;
   }
+
   .display-1 {
-    font-size: 2.5rem ;
+    font-size: 2.5rem;
   }
 }
 
@@ -53,7 +53,8 @@ h1, h3 {
     width: 70%;
   }
 }
-body{
+
+body {
   font-family: 'Oswald', sans-serif;
-  color:#689EA8 ;
+  color: #689EA8;
 }

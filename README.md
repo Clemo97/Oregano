@@ -14,16 +14,14 @@ BDD(Behavior Driven Development) focuses on users being able to identify the kin
 
 This requires users to input various lengths , submit and wait for result.
 
-| Input | output | Purpose |
-| :---         |     :---:      |          ---: |
-|click the pizza image   | get a brief definition of the kind of pizza      | Pick your choice   |
-| click the topping image    |get a brief definition of the kind of topping     | Pick your choice    |
-|click the crust image   | get a brief definition of the kind of crust     | Pick your choice   |
-| Once selection is done, click order    |   get your total price   | With the price in mind you can choose to add another order or Checkout |
-|click checkout once satisfied   | An alert will appear     | Choose whether or not you would like your pizza delivered to your place  |
-| Enter location  and click the complete button   | you will receive a notification letting you know a rider is coming to deliver      | wait for your pizza      |
-
-
+| Input                                         |                                     output                                    |                                                                 Purpose |
+| :-------------------------------------------- | :---------------------------------------------------------------------------: | ----------------------------------------------------------------------: |
+| click the pizza image                         |                  get a brief definition of the kind of pizza                  |                                                        Pick your choice |
+| click the topping image                       |                 get a brief definition of the kind of topping                 |                                                        Pick your choice |
+| click the crust image                         |                  get a brief definition of the kind of crust                  |                                                        Pick your choice |
+| Once selection is done, click order           |                              get your total price                             |  With the price in mind you can choose to add another order or Checkout |
+| click checkout once satisfied                 |                              An alert will appear                             | Choose whether or not you would like your pizza delivered to your place |
+| Enter location  and click the complete button | you will receive a notification letting you know a rider is coming to deliver |                                                     wait for your pizza |
 
 ## Setup/Installation Requirements
 
@@ -42,9 +40,12 @@ This requires users to input various lengths , submit and wait for result.
 -   CSS
 -   JavaScript.
 -   Bootstrap.
-- jQuery
+-   jQuery
+
     ## Support and contact details
-    In case of any issues please do contact janiceink001@gmail.com
+
+      In case of any issues please do contact janiceink001@gmail.com
+
     ### License
 
-    Copyright (c) 2019 **Janice-M**
+      Copyright (c) 2019 **Janice-M**
